@@ -1,1 +1,1 @@
-# python_study
+# Project for study Python in Synergy University
